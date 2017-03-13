@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="helpTitle">
+        <item>All messages</item>
+        <item>Unread messages</item>
+        <item>Special contacts</item>
+        <item>Contacts</item>
+        <item>Groups</item>
+        <item>Super groups</item>
+        <item>Online contacts</item>
+        <item>Channels</item>
+        <item>Bots</item>
+        <item>Ghost</item>
+        <item>Clear cache</item>
+        <item>Unreport request</item>
+        <item>Invite friends</item>
+        <item>Top apps</item>
+        <item>Contacts</item>
+        <item>Settings</item>
+        <item>Privacy and Security</item>
+        <item>Support</item>
+        <item>Hiding</item>
+        <item>Hiding</item>
+        <item>Hiding</item>
+        <item>Hiding</item>
+        <item>Hiding</item>
+    </string-array>
+
+
+    <string-array name="help">
+        <item>Here you can see all your messages such as personal chats, groups, super groups and...</item>
+        <item>On this tab you can see all of unread messages</item>
+        <item>On this tab you can see only chats with your special contacts</item>
+        <item>On this tab you see only chats with people</item>
+        <item>On this tab you see your groups</item>
+        <item>‎On this tab you see your super groups</item>
+        <item>On this tab you see chats with your online contacts</item>
+        <item>On this tab you see Channels</item>
+        <item>On this tab you see chats your with Bots</item>
+        <item>Activating this mode will make you like a ghost \n -your status will stay offline \n -if you read a message it will stay unread for you and sender</item>
+        <item>You can manage your memory and clear your data</item>
+        <item>this feature will automatically ask to unreport you from Telegram</item>
+        <item>‎Invite your friends to use Hamrahgram</item>
+        <item>You will see top Apps from developer of hamrahgram</item>
+        <item>You can manage contacts, edit tabs, see blocked users and...</item>
+        <item>See all settings of Telegram plus some new Hamrahgram special settings such as Theme, color, Font select and...</item>
+        <item>You can manage your account\'s security and privacy settings </item>
+        <item>Here you will see Hamrahgram guide, contact us and ask for help</item>
+        <item>To hide each conversation you can hold your finger for 2 seconds on it</item>
+        <item>‎Clicking on Hide will hide that conversation from your chat list in normal mode</item>
+        <item> To show hidden conversations you can hold your finger for 2 seconds on page header </item>
+        <item>To unhide a conversation you can hold your finger on it and click on unhide</item>
+        <item>To exit show hidden mode you can press here for 2 seconds</item>
+    </string-array>
+
+
+    <string-array name="specialoptions">
+        <item>Contacts</item>
+        <item>New group</item>
+        <item>New channel</item>
+        <item>New secret chat</item>
+        <item>Special contacts</item>
+        <item>Update special contact\'s image</item>
+        <item>Online contacts</item>
+        <item>Blocked user</item>
+        <item>Edit tabs</item>
+        <item>ID finder</item>
+    </string-array>
+    <string-array name="tabsname">
+        <item>All messages</item>
+        <item>Unread messages</item>
+        <item>Special contacts</item>
+        <item>Contacts</item>
+        <item>Groups</item>
+        <item>Super groups</item>
+        <item>Online contacts</item>
+        <item>Channels</item>
+        <item>Bots</item>
+        <item>Blocked users</item>
+    </string-array>
+
+    <string-array name="floatingactions">
+        <item>Secret chat</item>
+        <item>New channel</item>
+        <item>New group</item>
+        <item>New chat</item>
+
+
+    </string-array>
+
+    <string-array name="edittabs">
+        <item>Favorite</item>
+        <item>contacts</item>
+        <item>Groups</item>
+        <item>Super groups</item>
+        <item>Channels</item>
+        <item>Bots</item>
+        <item>Online contacts</item>
+        <item>Blocked Users</item>
+    </string-array>
+
+    <string-array name="internetandmemorysetting">
+        <item>Clear cache</item>
+        <item>Local database</item>
+        <item>On data (mobile network)</item>
+        <item>On wi-fi (internal network)</item>
+        <item>Roaming</item>
+        <item>Save to gallery</item>
+    </string-array>
+    <string-array name="apperanceandstickers">
+        <item>Sticker list</item>
+        <item>Preview stickers</item>
+        <item>Language</item>
+        <item>Select font</item>
+        <item>Text size</item>
+        <item>Wallpaper</item>
+        <item>Select colour</item>
+    </string-array>
+    <string-array name="alarmandsoundsetting">
+        <item>Message alert</item>
+        <item>Groups and channels alert</item>
+        <item>Application alert</item>
+        <item>Set default</item>
+    </string-array>
+</resources>
