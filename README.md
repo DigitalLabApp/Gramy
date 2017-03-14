@@ -4,7 +4,7 @@ Gramy is a messaging app with a focus on speed and security. It’s superfast, s
 This repo contains the official source code for [Gramy App for Android]
 It has in-app purchase features, such as user behaviour analytics.
 
-##we created our customised Telegram Application
+##we have created our customised Telegram Application.
 
 We welcome all developers to use our source code to create applications on Telegram platform.
 There are several things we require from **all developers** for the moment.
